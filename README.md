@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <!--Git Hub Streak-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rebelatto&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rebelatto&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 
 <!-- Status Git Hub-->
