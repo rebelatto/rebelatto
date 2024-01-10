@@ -40,4 +40,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebelatto&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rebelatto&theme=dark&hide_border=true&border_radius=4.6&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+
 
